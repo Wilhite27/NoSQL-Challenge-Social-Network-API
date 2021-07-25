@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilhite27/NoSQL-Challenge-Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilhite27/NoSQL-Challenge-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Wilhite27/NoSQL-Challenge-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars-react": "0.0.16",
+    "mongoose": "^5.13.2",
+    "react-document-meta": "^3.0.0-beta.2"
+  }
+}
